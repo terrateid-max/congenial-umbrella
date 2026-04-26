@@ -1,5 +1,3 @@
-// draw
-
 local coreGui = game:GetService("CoreGui")
 
 local camera = workspace.CurrentCamera
