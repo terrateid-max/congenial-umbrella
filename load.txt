@@ -1,4 +1,4 @@
-// load
+
 
 --!native
 --!optimize 2
